@@ -1,5 +1,7 @@
 .wrapper {
-  background: linear-gradient(to right, rgba(162,181,56,1) 0%, rgba(117,137,12,1) 100%);  height: 100%;
+  /* background-image: url("leaves.png"); */
+  background: rgb(216, 255, 184);
+  background-image: url("tile.png");
   display: flex;
   flex-flow: row wrap;
   padding: 30px;
